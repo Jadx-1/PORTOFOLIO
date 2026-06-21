@@ -1,5 +1,5 @@
 import HeroImage from "/assets/Heyo.png";
-import HOBIIMAGE from "/assets/hob.jpg";
+
 
 const Image = {
   HeroImage,
