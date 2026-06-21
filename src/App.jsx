@@ -145,7 +145,7 @@ function App() {
                      </p>
                  
                   <div className="flex items-center justify-between">
-                    <img src={DataImage.HOBIIMAGE alt="IMAGE" className="w-12 rounded-md sm:block hidden"/>
+                    <img src={DataImage.HOBIIMAGE} alt="IMAGE" className="w-12 rounded-md sm:block hidden"/>
                     <div className="flex items-center gap-6">
                     </div
                   </div>
