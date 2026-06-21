@@ -10,7 +10,7 @@ function App() {
                     <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy"/>
                     <p>buah apa yang paling manis?😂</p>
                 </div>
-                <h1 className="text-5xl/tight font-bold mb-6">Hi, My Name is Akhdan</h1>
+                <h1 className="text-5xl/tight font-bold mb-6">Halo, Nama Saya Akhdan</h1>
                 <p className="text-base/loose mb-6 opacity-50">Saya adalah siswa Jurusan Pengembangan Perangkat Lunak, saya tertatik dalam bidang rekayasa. saat ini saya sedang belajar dan mencari ilmu yang terkadang sulit namun saya harus semangat karena itu keinginan saya sedari awal.</p>
                 <div className="flex item-center sm:gap-4 gap-2">
                     <a href="#" className="bg-red-900 p-4 rounded-2xl hover:bg-red-600">Download CV <i className="ri-download-fill ri-lg"></i></a>
