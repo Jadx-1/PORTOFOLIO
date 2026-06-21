@@ -30,6 +30,7 @@ const Navbar = () => {
             <li><a href="#tentang" className="sm:text-lg text-base font-medium">Tentang</a></li>
             <li><a href="#proyek" className="sm:text-lg text-base font-medium">Project</a></li>
             <li><a href="#kontak" className="sm:text-lg text-base font-medium">kontak</a></li>
+            <li><a href="#Hobi" className="sm:text-lg text-base font-medium">Hobi</a></li>
         </ul>
     </div>
   )
