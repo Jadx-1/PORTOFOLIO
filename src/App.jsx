@@ -77,10 +77,10 @@ function App() {
                 </div>
                 {/*Bagian-tentang*/}
 
-                {/*Proyek*/}
+                {/*Project*/}
                 <div className="proyek mt-32 py-10" id="proyek">
                 <h1 className="text-center text-4xl font-bold mb-2" data-aos="fade-up" data-aos-duration="1000">Proyek</h1>
-                <p className="text-base/loose text-center opaciy-50" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">Berikut ini beberapa proyek</p>
+                <p className="text-base/loose text-center opaciy-50" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">Berikut ini beberapa project yang telah selesai</p>
                 <div className="proyek-box mt-14 grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4">
                     {listProyek.map(proyek => (
                     <div key={proyek.id} className="p-4 bg-zinc-800 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay={proyek.dad}>
@@ -108,7 +108,7 @@ function App() {
                     ))}
                 </div>
                 </div>
-                {/*Proyek*/}
+                {/*Project*/}
 
                 {/*Kontak*/}
                 <div className="kontak mt-32 sm:p-10 p-0" id="kontak">
