@@ -8,7 +8,7 @@ function App() {
             <div className="animate__animated animate__fadeInUp">
                 <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
                     <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy"/>
-                    <p>buah apa yang paling manis?😂</p>
+                    <p>Welkom welkom</p>
                 </div>
                 <h1 className="text-5xl/tight font-bold mb-6">Halo, Nama Saya Akhdan Prajadisa</h1>
                 <p className="text-base/loose mb-6 opacity-50">Saya adalah siswa Jurusan Pengembangan Perangkat Lunak, saya tertatik dalam bidang rekayasa. saat ini saya sedang belajar dan mencari ilmu yang terkadang sulit namun saya harus semangat karena itu keinginan saya sedari awal.</p>
@@ -34,20 +34,7 @@ function App() {
                   <div className="flex items-center justify-between">
                     <img src={DataImage.HeroImage} alt="IMAGE" className="w-12 rounded-md sm:block hidden"/>
                     <div className="flex items-center gap-6">
-                        <div>
-                            <h1 className="text-4xl mb-1">
-                               3<span className="text-red-500">+</span>
-                            </h1>
-                            <p>Proyek Selesai</p>
-                        </div>
-                    </div>
-                     <div>
-                        <div>
-                            <h1 className="text-4xl mb-1">
-                                2<span className="text-red-500">+</span>
-                            </h1>
-                            <p>Tahun Pengalaman</p>
-                        </div>
+                      
                     </div>
                   </div>
                   </div>
