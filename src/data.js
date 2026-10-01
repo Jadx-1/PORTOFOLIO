@@ -4,9 +4,7 @@ import HOBIIMAGE from "/assets/hob.jpg";
 
 const Image = {
   HeroImage,
-};
-const Image = {
-  HOBIIMAGE,
+  HOBIIMAGE
 };
 
 export default Image;
